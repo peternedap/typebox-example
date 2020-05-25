@@ -1,0 +1,17 @@
+{
+  "name": "typebox-example",
+  "version": "0.0.1",
+  "description": "Example for TypeBox",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [],
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@sinclair/typebox": "^0.10.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.3"
+  }
+}
